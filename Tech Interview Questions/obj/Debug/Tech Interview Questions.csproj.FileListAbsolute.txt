@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Tech Interview Questions\Tech Interview Questions\bin\Debug\Tech Interview Questions.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Tech Interview Questions\Tech Interview Questions\obj\Debug\Tech Interview Questions.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Tech Interview Questions\Tech Interview Questions\bin\Debug\Tech Interview Questions.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Tech Interview Questions\Tech Interview Questions\bin\Debug\Tech Interview Questions.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Tech Interview Questions\Tech Interview Questions\obj\Debug\Tech Interview Questions.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Tech Interview Questions\Tech Interview Questions\obj\Debug\Tech Interview Questions.pdb
